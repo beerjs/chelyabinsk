@@ -11,4 +11,4 @@
 
 Информация о встречах появляется в [issues](https://github.com/beerjs/chelyabinsk/issues) этого репозитория. Нажмите кнопку **Watch**, чтобы получать уведомления о будущих мероприятиях.
 
-Добавляйтесь в чат в [Телеграме](https://github.com/beerjs/chelyabinsk). Подписывайтесь во [ВКонтакте](https://vk.com/beerjs_chel) и [Твиттере](https://twitter.com/beerjs_chel), там тоже будут появляться анонсы.
+Добавляйтесь в чат в [Телеграме](https://t.me/beerjs_chel). Подписывайтесь во [ВКонтакте](https://vk.com/beerjs_chel) и [Твиттере](https://twitter.com/beerjs_chel), там тоже будут появляться анонсы.
