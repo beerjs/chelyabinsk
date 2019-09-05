@@ -19,3 +19,4 @@
 2       | [Hoppy Mondays](https://github.com/beerjs/chelyabinsk/issues/2)         | 9 августа 2018
 3       | [Brothers](https://github.com/beerjs/chelyabinsk/issues/3)              | 17 января 2019
 4       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/4)             | 18 апреля 2019
+5       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/5)             | 4 сентября 2019
