@@ -21,3 +21,4 @@
 4       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/4)             | 18 апреля 2019
 5       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/5)             | 4 сентября 2019
 6       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/6)             | 9 января 2020
+7       | [Zoom](https://github.com/beerjs/chelyabinsk/issues/7)                  | 2 апреля 2020
