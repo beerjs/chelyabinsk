@@ -24,3 +24,4 @@
 7       | [Zoom](https://github.com/beerjs/chelyabinsk/issues/7)                  | 2 апреля 2020
 8       | [Винный шкаф](https://github.com/beerjs/chelyabinsk/issues/8)           | 5 сентября 2020
 9       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/9)             | 11 февраля 2021
+10      | [United](https://github.com/beerjs/chelyabinsk/issues/10)               | 1 апреля 2021
