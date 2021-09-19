@@ -26,3 +26,4 @@
 9       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/9)             | 11 февраля 2021
 10      | [United](https://github.com/beerjs/chelyabinsk/issues/10)               | 1 апреля 2021
 11      | [Kaloud Club](https://github.com/beerjs/chelyabinsk/issues/11)          | 10 июня 2021
+11      | [5561](https://github.com/beerjs/chelyabinsk/issues/12)                 | 16 сентября 2021
