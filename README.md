@@ -28,3 +28,4 @@
 11      | [Kaloud Club](https://github.com/beerjs/chelyabinsk/issues/11)          | 10 июня 2021
 12      | [5561](https://github.com/beerjs/chelyabinsk/issues/12)                 | 16 сентября 2021
 13      | [United](https://github.com/beerjs/chelyabinsk/issues/13)               | 2 декабря 2021
+14      | [United](https://github.com/beerjs/chelyabinsk/issues/14)               | 25 мая 2023
