@@ -13,19 +13,20 @@
 
 ## Все встречи
 
-Встреча | Место                                                                   | Дата
---------|-------------------------------------------------------------------------|------------------
-1       | [Коза](https://github.com/beerjs/chelyabinsk/issues/1)                  | 12 апреля 2018
-2       | [Hoppy Mondays](https://github.com/beerjs/chelyabinsk/issues/2)         | 9 августа 2018
-3       | [Brothers](https://github.com/beerjs/chelyabinsk/issues/3)              | 17 января 2019
-4       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/4)             | 18 апреля 2019
-5       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/5)             | 4 сентября 2019
-6       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/6)             | 9 января 2020
-7       | [Zoom](https://github.com/beerjs/chelyabinsk/issues/7)                  | 2 апреля 2020
-8       | [Винный шкаф](https://github.com/beerjs/chelyabinsk/issues/8)           | 5 сентября 2020
-9       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/9)             | 11 февраля 2021
-10      | [United](https://github.com/beerjs/chelyabinsk/issues/10)               | 1 апреля 2021
-11      | [Kaloud Club](https://github.com/beerjs/chelyabinsk/issues/11)          | 10 июня 2021
-12      | [5561](https://github.com/beerjs/chelyabinsk/issues/12)                 | 16 сентября 2021
-13      | [United](https://github.com/beerjs/chelyabinsk/issues/13)               | 2 декабря 2021
-14      | [United](https://github.com/beerjs/chelyabinsk/issues/14)               | 25 мая 2023
+Встреча | Место                                                                      | Дата
+--------|----------------------------------------------------------------------------|------------------
+1       | [Коза](https://github.com/beerjs/chelyabinsk/issues/1)                     | 12 апреля 2018
+2       | [Hoppy Mondays](https://github.com/beerjs/chelyabinsk/issues/2)            | 9 августа 2018
+3       | [Brothers](https://github.com/beerjs/chelyabinsk/issues/3)                 | 17 января 2019
+4       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/4)                | 18 апреля 2019
+5       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/5)                | 4 сентября 2019
+6       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/6)                | 9 января 2020
+7       | [Zoom](https://github.com/beerjs/chelyabinsk/issues/7)                     | 2 апреля 2020
+8       | [Винный шкаф](https://github.com/beerjs/chelyabinsk/issues/8)              | 5 сентября 2020
+9       | [Jackson's](https://github.com/beerjs/chelyabinsk/issues/9)                | 11 февраля 2021
+10      | [United](https://github.com/beerjs/chelyabinsk/issues/10)                  | 1 апреля 2021
+11      | [Kaloud Club](https://github.com/beerjs/chelyabinsk/issues/11)             | 10 июня 2021
+12      | [5561](https://github.com/beerjs/chelyabinsk/issues/12)                    | 16 сентября 2021
+13      | [United](https://github.com/beerjs/chelyabinsk/issues/13)                  | 2 декабря 2021
+14      | [United](https://github.com/beerjs/chelyabinsk/issues/14)                  | 25 мая 2023
+15      | [Сидрерия Daddy's choice](https://github.com/beerjs/chelyabinsk/issues/15) | 25 января 2024
