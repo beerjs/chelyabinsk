@@ -30,3 +30,4 @@
 13      | [United](https://github.com/beerjs/chelyabinsk/issues/13)                  | 2 декабря 2021
 14      | [United](https://github.com/beerjs/chelyabinsk/issues/14)                  | 25 мая 2023
 15      | [Сидрерия Daddy's choice](https://github.com/beerjs/chelyabinsk/issues/15) | 25 января 2024
+16      | [Hottabych](https://github.com/beerjs/chelyabinsk/issues/16)               | 15 февраля 2024
