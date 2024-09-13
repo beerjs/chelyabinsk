@@ -34,3 +34,4 @@
 17      | [United](https://github.com/beerjs/chelyabinsk/issues/17)                  | 26 апреля 2024
 18      | [Сидрерия Daddy's choice](https://github.com/beerjs/chelyabinsk/issues/18) | 27 июня 2024
 19      | [5561](https://github.com/beerjs/chelyabinsk/issues/19)                    | 11 июля 2024
+20      | [Белый рынок/Good Company](https://github.com/beerjs/chelyabinsk/issues/20)| 12 сентября 2024
