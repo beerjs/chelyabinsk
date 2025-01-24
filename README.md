@@ -36,4 +36,5 @@
 19      | [5561](https://github.com/beerjs/chelyabinsk/issues/19)                    | 11 июля 2024
 20      | [Белый рынок/Good Company](https://github.com/beerjs/chelyabinsk/issues/20)| 12 сентября 2024
 21      | [Топка](https://github.com/beerjs/chelyabinsk/issues/21)                   | 5 декабря 2024
-22      | [Shamrock](https://github.com/beerjs/chelyabinsk/issues/22)                   | 26 декабря 2024
+22      | [Shamrock](https://github.com/beerjs/chelyabinsk/issues/22)                | 26 декабря 2024
+23      | [Правда](https://github.com/beerjs/chelyabinsk/issues/23)                  | 23 января 2024
