@@ -40,3 +40,4 @@
 23      | [Правда](https://github.com/beerjs/chelyabinsk/issues/23)                  | 23 января 2025
 24      | [Goodda Bar](https://github.com/beerjs/chelyabinsk/issues/24)              | 27 марта 2025
 25      | [La Galleria](https://github.com/beerjs/chelyabinsk/issues/25)             | 26 июня 2025
+26      | [Horse Head Pub](https://github.com/beerjs/chelyabinsk/issues/26)          | 24 июля 2025
