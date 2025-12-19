@@ -42,3 +42,4 @@
 25      | [La Galleria](https://github.com/beerjs/chelyabinsk/issues/25)             | 26 июня 2025
 26      | [Horse Head Pub](https://github.com/beerjs/chelyabinsk/issues/26)          | 24 июля 2025
 27      | [Frank by Баста](https://github.com/beerjs/chelyabinsk/issues/27)          | 2 октября 2025
+28      | [United](https://github.com/beerjs/chelyabinsk/issues/28)                  | 18 декабря 2025
