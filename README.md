@@ -43,3 +43,4 @@
 26      | [Horse Head Pub](https://github.com/beerjs/chelyabinsk/issues/26)          | 24 июля 2025
 27      | [Frank by Баста](https://github.com/beerjs/chelyabinsk/issues/27)          | 2 октября 2025
 28      | [United](https://github.com/beerjs/chelyabinsk/issues/28)                  | 18 декабря 2025
+29      | [Shamrock](https://github.com/beerjs/chelyabinsk/issues/29)                | 29 января 2025
