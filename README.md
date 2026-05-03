@@ -45,3 +45,4 @@
 28      | [United](https://github.com/beerjs/chelyabinsk/issues/28)                  | 18 декабря 2025
 29      | [Shamrock](https://github.com/beerjs/chelyabinsk/issues/29)                | 29 января 2026
 30      | [Stories](https://github.com/beerjs/chelyabinsk/issues/30)                 | 19 марта 2026
+31      | [Дабл Эль](https://github.com/beerjs/chelyabinsk/issues/31)                | 30 апреля 2026
