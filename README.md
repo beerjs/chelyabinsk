@@ -47,3 +47,4 @@
 30      | [Stories](https://github.com/beerjs/chelyabinsk/issues/30)                 | 19 марта 2026
 31      | [Дабл Эль](https://github.com/beerjs/chelyabinsk/issues/31)                | 30 апреля 2026
 32      | [Сидрерия](https://github.com/beerjs/chelyabinsk/issues/32)                | 25 июня 2026
+33      | [Белый рынок](https://github.com/beerjs/chelyabinsk/issues/33)             | 16 июля 2026
