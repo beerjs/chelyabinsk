@@ -48,3 +48,4 @@
 31      | [Дабл Эль](https://github.com/beerjs/chelyabinsk/issues/31)                | 30 апреля 2026
 32      | [Сидрерия](https://github.com/beerjs/chelyabinsk/issues/32)                | 25 июня 2026
 33      | [Белый рынок](https://github.com/beerjs/chelyabinsk/issues/33)             | 16 июля 2026
+34      | [Horizon](https://github.com/beerjs/chelyabinsk/issues/34)                 | 3 сентября 2026
